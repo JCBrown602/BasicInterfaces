@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BasicInterfaces\BasicInterfaces\bin\Debug\BasicInterfaces.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BasicInterfaces\BasicInterfaces\obj\Debug\BasicInterfaces.pdb
